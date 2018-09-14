@@ -1,0 +1,25 @@
+.timesheet-form, .timesheetTbl{
+    margin: auto;
+    float: left;
+    padding: 4rem;
+}
+
+.timesheet-form{
+    width: 25% !important;
+}
+
+.timesheetTbl{
+    width: 70%;
+}
+
+.header{
+    text-align: center;
+}
+
+.timesheetTbl h1{
+    margin-bottom: 4rem;
+}
+
+/* .timesheetTbl{
+    display: none;
+} */
